@@ -12,6 +12,7 @@ This system provides AI agents with persistent memory, structured insight extrac
 - **Research-Backed**: Claims grounded in cognitive science (249 claims framework)
 - **MOC Navigation**: Maps of Content for efficient knowledge retrieval
 - **Session Capture**: Automatic session state persistence
+- **Pluggable**: Works with any agent ecosystem
 - **Quality Enforcement**: Schema validation on writes
 
 ## Architecture
